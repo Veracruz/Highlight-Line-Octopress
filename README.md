@@ -7,7 +7,7 @@ It base on Octopress plugin *Pygments*, I just edit and add some snippet.
 
 Please put `pygments_code.rb` & `backtick_code_block.rb` into `/plugins/`, backup original files before and replace them. Then put `footer.html` into `/source/_includes/custom/`, same as above.
 
-If you edit these files before, you can according to the post below.
+If you edit these files before, you can according to the post below or you can read these files, pretty short, to add the feature by yourself.
 
 [为 Octopress 中的代码块添加高亮行的功能](http://veracruz.github.io/blog/2014/12/22/octopress-highlight-line-in-code-block/)
 
